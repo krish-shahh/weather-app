@@ -4,7 +4,7 @@ There is public Rest API https://www.metaweather.com/api/ which I'm using to que
 
 Demo deployed on Vercel:
 
-[weatherapp-besartm.vercel.app](https://weatherapp-besartm.vercel.app/) 
+[weather-app-virid-omega.vercel.app/](https://weather-app-virid-omega.vercel.app/) 
 
 ## Getting Started
 
