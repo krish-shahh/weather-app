@@ -27,5 +27,3 @@ Run build project:
 ```bash
 npm run start
 ```
-View:
-![WeatherApp](https://i.pinimg.com/originals/7c/8f/8d/7c8f8d6c1d31299983169c717250ee9c.png "WeatherApp")
