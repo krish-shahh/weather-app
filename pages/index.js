@@ -43,7 +43,7 @@ function Home(props) {
 }
 
 export async function getStaticProps() {
-  const res = await axios.get("https://api.allorigins.win/raw?url=https://www.metaweather.com/api/location/44418/");
+  const res = await axios.get("https://api.allorigins.win/raw?url=https://www.metaweather.com/api/location/2366987/");
 
   const today = await res.data.consolidated_weather[0];
   const otherDays = await res.data.consolidated_weather.filter(
