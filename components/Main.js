@@ -76,8 +76,7 @@ function Main({ changeConverter, converter, today, other }) {
       <div className="footer">
         <p>
           created by{" "}
-          <Link href="https://www.linkedin.com/in/besartm/">besartm</Link> -{" "}
-          <Link href="https://devchallenges.io">devChallenges.io</Link>
+          <Link href="https://krish-shah.vercel.app">Krish Shah</Link>
         </p>
       </div>
     </div>
