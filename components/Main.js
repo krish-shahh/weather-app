@@ -75,7 +75,7 @@ function Main({ changeConverter, converter, today, other }) {
       </div>
       <div className="footer">
         <p>
-          created by{" "}
+          Created by{" "}
           <Link href="https://krish-shah.vercel.app">Krish Shah</Link>
         </p>
       </div>
