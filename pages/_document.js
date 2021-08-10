@@ -13,7 +13,7 @@ class MyDocument extends Document {
           <meta charSet="UTF-8" />
           <meta name="description" content="Weather Application" />
           <meta name="keywords" content="WeatherApp" />
-          <meta name="author" content="besart mullabazi" />
+          <meta name="author" content="Krish Shah" />
           <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet" />
         </Head>
         <body>
